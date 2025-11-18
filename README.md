@@ -1,6 +1,6 @@
 # EXP.4-MEASUREMENT-OF-INDUCTANCE-UISING-MAXWELLS-BRIDGE-
 ## AIM:
-Measurement of unknown inductance using a Maxwell’s Bridge
+Measurement of unknown inductance using a Maxwell’s Bridge.
 
 ## PROCEDURE:
 
